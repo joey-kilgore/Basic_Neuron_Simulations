@@ -62,6 +62,11 @@ Resources :
    &nbsp;&nbsp;   ex. python C:\nrn\test0.py  
   b. Using Visual Studio code downloaded through Anaconda  
 
+6. Setting Up R  
+  a. Download Visual Studio Community &nbsp;&nbsp; [Download VS](https://visualstudio.microsoft.com/downloads/)    
+  b. Install VS, and install the Data Science and Analytical Application package  
+  c. Get the sample project from &nbsp;&nbsp; [Sample R Project](https://docs.microsoft.com/en-us/visualstudio/rtvs/getting-started-samples)  
+  d. Run the 2 R scripts within the A first look at R folder  
 
 First Simulation
 ================
