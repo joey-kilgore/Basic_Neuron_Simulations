@@ -55,6 +55,6 @@ plot2
 
 # Save plots to files
 # https://ggplot2.tidyverse.org/reference/ggsave.html
-ggsave("plot0", plot = p0, device = "jpeg", path = outputFolder)
-ggsave("plot1", plot = p1, device = "jpeg", path = outputFolder)
-ggsave("plot2", plot = p2, device = "jpeg", path = outputFolder)
+ggsave("plot0.jpeg", plot = plot0, path = outputFolder)
+ggsave("plot1.jpeg", plot = plot1, path = outputFolder)
+ggsave("plot2.jpeg", plot = plot2, path = outputFolder)
